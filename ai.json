@@ -1,0 +1,6 @@
+{
+  "base_url": "https://surround-translations-assessment-awarded.trycloudflare.com/v1",
+  "model": "qwen3-8b",
+  "reasoning": true,
+  "reasoning_format": "deepseek"
+}
