@@ -1,6 +1,6 @@
 {
-  "base_url": "https://reproduce-structure-api-poker.trycloudflare.com/v1",
-  "model": "qwen3-8b",
+  "base_url": "https://proc-shortcuts-grocery-related.trycloudflare.com/v1",
+  "model": "qwen3-8b-abliterated",
   "reasoning": true,
   "reasoning_format": "deepseek"
 }
