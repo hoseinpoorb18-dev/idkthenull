@@ -1,6 +1,6 @@
 {
-  "base_url": "https://proc-shortcuts-grocery-related.trycloudflare.com/v1",
-  "model": "qwen3-8b-abliterated",
+  "base_url": "https://dance-church-introductory-dylan.trycloudflare.com/v1",
+  "model": "qwen3-8b",
   "reasoning": true,
   "reasoning_format": "deepseek"
 }
