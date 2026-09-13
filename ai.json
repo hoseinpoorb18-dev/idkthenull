@@ -1,5 +1,5 @@
 {
-  "base_url": "https://dance-church-introductory-dylan.trycloudflare.com/v1",
+  "base_url": "https://staying-tail-module-voting.trycloudflare.com/v1",
   "model": "qwen3-8b",
   "reasoning": true,
   "reasoning_format": "deepseek"
